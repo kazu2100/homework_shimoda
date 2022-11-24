@@ -3,7 +3,7 @@
  
  <head>
      <meta charset="UTF-8">
-     <title>PHP基礎編</title>
+     <title>sample.formのanser</title>
  </head>
  
  <body>
